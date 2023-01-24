@@ -1,0 +1,32 @@
+{
+  "name": "@tarrasque/tsconfig",
+  "version": "1.0.0",
+  "description": "TypeScript config for Tarrasque App",
+  "keywords": [
+    "tarrasque",
+    "tsconfig",
+    "typescript"
+  ],
+  "homepage": "https://github.com/tarrasqueapp/tsconfig#readme",
+  "bugs": {
+    "url": "https://github.com/tarrasqueapp/tsconfig/issues",
+    "email": "support@tarrasque.app"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Richard Solomou",
+    "email": "richard@tarrasque.app",
+    "url": "https://tarrasque.app"
+  },
+  "files": [
+    "base.json",
+    "esm.json",
+    "nestjs.json",
+    "nextjs.json",
+    "react.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarrasqueapp/tsconfig"
+  }
+}
