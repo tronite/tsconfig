@@ -1,6 +1,6 @@
 {
   "name": "@tarrasque/tsconfig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TypeScript config for Tarrasque App",
   "keywords": [
     "tarrasque",
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/tarrasqueapp/tsconfig"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "typescript": "^4.9.4"
   },
   "publishConfig": {
