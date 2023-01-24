@@ -18,16 +18,12 @@
     "email": "richard@tarrasque.app",
     "url": "https://tarrasque.app"
   },
-  "files": [
-    "base.json",
-    "esm.json",
-    "nestjs.json",
-    "nextjs.json",
-    "react.json"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tarrasqueapp/tsconfig"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
   },
   "publishConfig": {
     "access": "public"

@@ -1,6 +1,6 @@
 # @tarrasque/tsconfig
 
-This package provides [TypeScript](https://www.typescriptlang.org/) configuration for Tarrasque projects.
+This package provides [TypeScript](https://www.typescriptlang.org/) configuration for [Tarrasque App](https://tarrasque.app) projects.
 
 ## Installation
 
