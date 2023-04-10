@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://tronite.com.app" target="_blank"><img src="https://tronite.com/images/logo.png" width="150" /></a>
+  <a href="https://tronite.com" target="_blank"><img src="https://tronite.com/images/logo.png" width="150" /></a>
   <h1>@tronite/tsconfig</h1>
 </div>
 
