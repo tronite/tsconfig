@@ -1,26 +1,26 @@
 {
-  "name": "@tarrasque/tsconfig",
+  "name": "@tronite/tsconfig",
   "version": "1.0.3",
-  "description": "TypeScript config for Tarrasque App",
+  "description": "TypeScript config for Tronite",
   "keywords": [
-    "tarrasque",
+    "tronite",
     "tsconfig",
     "typescript"
   ],
-  "homepage": "https://github.com/tarrasqueapp/tsconfig#readme",
+  "homepage": "https://github.com/tronite/tsconfig#readme",
   "bugs": {
-    "url": "https://github.com/tarrasqueapp/tsconfig/issues",
-    "email": "support@tarrasque.app"
+    "url": "https://github.com/tronite/tsconfig/issues",
+    "email": "support@tronite.com"
   },
   "license": "MIT",
   "author": {
     "name": "Richard Solomou",
-    "email": "richard@tarrasque.app",
-    "url": "https://tarrasque.app"
+    "email": "richard@tronite.com",
+    "url": "https://tronite.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tarrasqueapp/tsconfig"
+    "url": "https://github.com/tronite/tsconfig"
   },
   "peerDependencies": {
     "typescript": "^4.9.4"

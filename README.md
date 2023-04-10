@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://tarrasque.app" target="_blank"><img src="https://tarrasque.app/images/logo.svg" width="150" /></a>
-  <h1>@tarrasque/tsconfig</h1>
+  <a href="https://tronite.com.app" target="_blank"><img src="https://tronite.com/images/logo.png" width="150" /></a>
+  <h1>@tronite/tsconfig</h1>
 </div>
 
-This package provides [TypeScript](https://www.typescriptlang.org/) configuration for [Tarrasque App](https://tarrasque.app) projects. It is intended to be used with [@tarrasque/eslint-config](https://github.com/tarrasqueapp/eslint-config) and [@tarrasque/prettier-config](https://github.com/tarrasqueapp/prettier-config).
+This package provides [TypeScript](https://www.typescriptlang.org/) configuration for [Tronite](https://tronite.com) projects. It is intended to be used with [@tronite/eslint-config](https://github.com/tronite/eslint-config) and [@tronite/prettier-config](https://github.com/tronite/prettier-config).
 
 ## Installation
 
 To install this package, run the following command:
 
 ```sh
-yarn add --dev @tarrasque/tsconfig
+yarn add --dev @tronite/tsconfig
 ```
 
 You will also need to install the following peer dependencies:
@@ -27,7 +27,7 @@ Add the following to your `tsconfig.json` file, depending on your project type:
 
 ```json
 {
-  "extends": "@tarrasque/tsconfig/nextjs",
+  "extends": "@tronite/tsconfig/nextjs",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", ".next"]
 }
@@ -37,7 +37,7 @@ Add the following to your `tsconfig.json` file, depending on your project type:
 
 ```json
 {
-  "extends": "@tarrasque/tsconfig/nestjs",
+  "extends": "@tronite/tsconfig/nestjs",
   "include": ["**/*.ts"],
   "exclude": ["node_modules", "dist"]
 }
@@ -47,7 +47,7 @@ Add the following to your `tsconfig.json` file, depending on your project type:
 
 ```json
 {
-  "extends": "@tarrasque/tsconfig/react",
+  "extends": "@tronite/tsconfig/react",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", "dist"]
 }
@@ -57,7 +57,7 @@ Add the following to your `tsconfig.json` file, depending on your project type:
 
 ```json
 {
-  "extends": "@tarrasque/tsconfig/esm",
+  "extends": "@tronite/tsconfig/esm",
   "include": ["**/*.ts", "**/*.mts"],
   "exclude": ["node_modules", "dist"]
 }
