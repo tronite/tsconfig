@@ -1,6 +1,6 @@
 {
   "name": "@tronite/tsconfig",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript config for Tronite",
   "keywords": [
     "tronite",
@@ -23,7 +23,7 @@
     "url": "https://github.com/tronite/tsconfig"
   },
   "peerDependencies": {
-    "typescript": "^4.9.4"
+    "typescript": "^5.1.6"
   },
   "publishConfig": {
     "access": "public"
