@@ -10,13 +10,13 @@ This package provides [TypeScript](https://www.typescriptlang.org/) configuratio
 To install this package, run the following command:
 
 ```sh
-yarn add --dev @tronite/tsconfig
+pnpm add -D @tronite/tsconfig
 ```
 
 You will also need to install the following peer dependencies:
 
 ```sh
-yarn add --dev typescript
+pnpm add -D typescript
 ```
 
 ## Usage
